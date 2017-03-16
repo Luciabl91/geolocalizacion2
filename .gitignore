@@ -1,0 +1,16 @@
+.asscache
+.classpath
+.project
+.settings
+application.properties	
+lib	
+target-eclipse	
+sass
+scripts	
+web-app
+grailsw	
+grailsw.bat	
+src	
+wrapper
+grailsw.bat	
+target
